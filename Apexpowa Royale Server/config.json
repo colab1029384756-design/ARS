@@ -1,0 +1,24 @@
+{
+    "Server": {
+        "Port": 9339,
+        "Debug": true,
+        "Version": "3.1945"
+    },
+    "Database": {
+        "Host": "127.0.0.1",
+        "Name": "ScrollDatabase",
+        "Password": null
+    },
+    "Player": {
+        "StartDefault": false,
+        "StartingScore": 0,
+        "StartingArena": 1,
+        "StartingLevel": 1,
+        "StartingExperience": 0,
+        "StartingResources": {
+            "Gold": 1000000000,
+            "Diamonds": 1000000000
+        },
+        "StartingMana": 5
+    }
+}
